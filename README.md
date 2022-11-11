@@ -17,3 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
 </p>
 
+<p align="left">
+<img src="https://user-images.githubusercontent.com/65046234/201413285-f1d233c9-3ad7-44a2-94e3-31e13964e31f.png" alt="power_data_analyst_certificate" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/65046234/201413673-9ea72e33-6ff6-4345-bae7-cffe1412f237.png" alt="azure_fundamentals_certificate" width="100" height="100" />
+</p>
