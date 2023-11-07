@@ -1,7 +1,7 @@
 # Hello, :earth_americas: 
 - 👋 I’m Michelle Massa (@massa-michelle)
 - 👀 I’m interested in Web Development, Business Analysis, Cyber Security, and so much more!
-- 🌱 I’m currently learning Sitecore, new web development concepts, and experimenting with Flutter and Dart development.
+- 🌱 I’m currently learning Sitecore, new web development concepts, and I am currently a student at Indiana University's Kelley School of Business for my MBA in Digital Technology Management!
 
 # Want to learn more about me?
 - Take a look at my [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/mmassa/) to see what I am learning.
